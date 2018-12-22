@@ -1,0 +1,9 @@
+g822
+
+Álvaro Cuesta Ruiz
+David Pisonero Fuentes
+
+Gestos añadidos
+	1) Un pinch que cambia el valor del lado (ademas actualiza la etiqueta del lado, y esta limitado a los mismos valores del slider. He intentado asociar el slider al pinch, pero no se veía muy bien al hacer el pellizco, así que he eliminado esa asociación)
+
+	2) Al hacer un tap en la pantalla, los slider ask como las etiquetas y los valores que representan, se ponen al valor medio (0.5 el lado y 2 el tiempo)
